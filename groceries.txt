@@ -9,3 +9,4 @@ strawberries
 rice
 potatoes
 butter
+eggs
