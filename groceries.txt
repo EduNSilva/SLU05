@@ -10,3 +10,4 @@ rice
 potatoes
 butter
 eggs
+toilet paper
