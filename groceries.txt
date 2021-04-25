@@ -1,6 +1,6 @@
 chocolate
-cookies
-ice-cream
+oats
+dates
 carrots
 bread
 peanut butter
